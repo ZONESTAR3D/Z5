@@ -1,0 +1,1 @@
+please copy the HEX file to a simply directory (for example: d:\.) before upload the firmware
